@@ -1,4 +1,4 @@
-10#Maria Moran
+#Maria Moran
 #June 14, 2025
 #P1HW2
 #This program calculates and displays travel expenses
